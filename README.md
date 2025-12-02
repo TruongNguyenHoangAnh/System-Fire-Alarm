@@ -35,7 +35,7 @@
 ### 2. Các bước cài đặt
 1.  **Clone dự án về máy:**
     ```bash
-    git clone [https://github.com/username/smart-fire-alarm.git](https://github.com/username/smart-fire-alarm.git)
+    git clone https://github.com/TruongNguyenHoangAnh/System-Fire-Alarm.git
     cd smart_fire_alarm_app
     ```
 
