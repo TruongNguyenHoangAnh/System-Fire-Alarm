@@ -90,7 +90,7 @@ Nếu bạn thay đổi mật khẩu WiFi ở nhà hoặc mang thiết bị đi 
 Bạn có thể tự quy định mức độ nguy hiểm:
 * Kéo thanh trượt **"Nhiệt độ báo động"** (Ví dụ: đặt lên 60°C).
 * Kéo thanh trượt **"Nồng độ khói"**.
-* Nhấn **"SAVE CONFIGURATION"** để áp dụng. Khi nhiệt độ vượt qua mức bạn vừa đặt, App sẽ báo đỏ.
+* Nhấn **"Lưu cấu hình"** để áp dụng. Khi nhiệt độ vượt qua mức bạn vừa đặt, App sẽ báo đỏ.
 
 #### D. Chu kỳ gửi dữ liệu (Data Interval)
 * Kéo thanh trượt để chỉnh tốc độ cập nhật (Ví dụ: 5s gửi một lần hoặc 60s gửi một lần).
@@ -105,7 +105,7 @@ Bạn có thể tự quy định mức độ nguy hiểm:
 > 2. **Device ID** trong phần Cài đặt của App có khớp với ID được nạp trong code ESP32 không?
 
 **Q: Làm thế nào để đăng xuất tài khoản?**
-> **A:** Vào tab **Settings**, cuộn xuống dưới cùng và nhấn nút **"Log Out"**.
+> **A:** Vào tab **Settings**, cuộn xuống dưới cùng và nhấn nút **"Đăng xuất"**.
 
 **Q: App báo "Lỗi kết nối" khi mở lên?**
 > **A:** Hãy kiểm tra kết nối Internet (WiFi/4G) trên điện thoại của bạn.
