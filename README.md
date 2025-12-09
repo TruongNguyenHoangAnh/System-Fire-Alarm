@@ -30,7 +30,7 @@
 ### 1. Yêu cầu môi trường
 * Flutter SDK: `3.x` trở lên
 * Dart SDK: `3.x` trở lên
-* Thiết bị: Android (5.0+) hoặc iOS.
+* Thiết bị: Android (5.0+)
 
 ### 2. Các bước cài đặt
 1.  **Clone dự án về máy:**
